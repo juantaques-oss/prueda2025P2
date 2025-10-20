@@ -1,1 +1,2 @@
-# prueda2025P2
+# Create 20251020 
+App de pruba para uso del repositorio 
